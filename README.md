@@ -33,7 +33,7 @@ Then, the user can return to the home screen and start the process all over agai
 ## Building and delivering application
 
 1. Ideally, every push/merge to the `main` branch should trigger a deployment. So wait a few minutes.
-2. And refresh the website. If the build was successful, you'll see the new version.
+2. And refresh [the website](https://babson-ughe-medcom.onrender.com). If the build was successful, you'll see the new version.
 
 ## Important files
 
