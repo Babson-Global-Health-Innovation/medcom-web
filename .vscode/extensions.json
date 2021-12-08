@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "heybourn.headwind",
+    "riazxrazor.html-to-jsx",
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense",
+    "eg2.vscode-npm-script",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "stepsize.tech-debt-tracker"
+  ]
+}
